@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xkvs27Fpy/8c3WNk59QnR2kVuJjs0zWQKcnmk2/c/vpt/IE/DRQTpX74yTG8r/glce7wsKPgWL1AxYaFLknciw==",
+  "success": true,
+  "projectFilePath": "E:\\Dev\\C# Web\\ASP.NET Core\\RoomFind\\RoomFindSolution\\RoomFind\\RoomFind.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dogman\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
