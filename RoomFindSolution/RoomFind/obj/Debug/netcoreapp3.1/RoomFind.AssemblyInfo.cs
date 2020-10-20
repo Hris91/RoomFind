@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("187142fe-acf2-42db-a0ab-5f79773068af")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoomFind")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
